@@ -13,7 +13,7 @@
       </ul>
       <h2>Crematorium <span>12:00pm</span></h2>
       <ul class="fa-ul">
-        <ListItem>Service starts at 12pm at Crematorium address</ListItem>
+        <ListItem>Service starts at TBA at Crematorium address</ListItem>
 
       </ul>
     </div>
