@@ -5,9 +5,8 @@
     </div>
     <div class="section details">
       <h1 class="title">Gallery</h1>
-      <p>Please feel free to upload any photos , thoughts to this kudoboard for George:</p>
-      <h2>George Collopy kudoboard</h2>
-      <a class="button" target="_blank" rel=”noopener” href="https://www.kudoboard.com/boards/80afi6yL">George Collopy Board</a>
+      <p>I've put some photos here but please feel free to upload any photos , thoughts to this external board for George:</p>
+      <a class="button" target="_blank" rel=”noopener” href="https://www.kudoboard.com/boards/80afi6yL">George Collopy External Board</a>
 
       <CoolLightBox
         :items="images"
