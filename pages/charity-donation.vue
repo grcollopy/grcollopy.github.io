@@ -19,3 +19,20 @@ export default {}
 
 <style lang="scss">
 </style>
+
+
+
+Our Father, who art in heaven,
+Hallowed be thy Name;
+Thy Kingdom come;
+Thy will be done
+on earth as it is in heaven.
+Give us this day our daily bread.
+And forgive us our trespasses,
+As we forgive those who trespass against us.
+And lead us not into temptation,
+But deliver us from evil.
+For thine is the kingdom,
+The power, and the glory,
+For ever and ever.
+Amen.
