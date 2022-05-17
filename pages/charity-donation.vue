@@ -5,6 +5,9 @@
     </div>
     <div class="section details">
       <h1 class="title">Charity Donations</h1>
+
+      <p>UPDATE - MAY 2022: We've now raised over 700 pounds for the Stroke Association in memory of George Collopy.  I'd like to thank everybody for their exceptionally kind donations. </p>
+
       <p>Instead of flowers, and only if desired, we would like to suggest people make a donation to:</p>
       <h2>The Stroke Association</h2>
       <p><em>The Stroke Association</em>'s goal is to help stroke survivors and their families rebuild their lives in ways that no one else can. Their specialist support helps them find the hope they need to move forward with their recovery.</p>
