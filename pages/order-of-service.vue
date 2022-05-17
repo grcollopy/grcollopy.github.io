@@ -15,7 +15,7 @@
 
       <h2>Notes:</h2>
       <ul class="fa-ul">
-        <ListItem>Service starts at 11:00 AM at St. Marylebone Crematorium</ListItem>
+        <ListItem>Service starts at 11:00 AM at St. Marylebone Crematorium </ListItem>
         <ListItem>Address Details: St Marylebone Crematorium, East End Road, Finchley, London, N2 0RZ</ListItem>
         <ListItem>Address for The Old White Lion: 121 Great N Rd, London, N2 0NW </ListItem>
         <ListItem>Parking at The Old White Lion: there is space for 5-6 cars, also parking is available at East Finchley Tube Station, 5 minutes walk away </ListItem>
