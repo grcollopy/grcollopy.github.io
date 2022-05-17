@@ -9,6 +9,9 @@
 
       <a class="button" target="_blank" rel=”noopener” href="/GRCEulogy_final.pdf"> Eulogy Download (pdf) </a>
 
+      <p></p>
+      <a class="button" target="_blank" rel=”noopener” href="/GeorgeCollopy_OrderOfService.pdf"> Order Of Service Download (pdf) - 12 April 2022 </a>
+
     </div>
   </div>
 </template>
