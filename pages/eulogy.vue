@@ -14,7 +14,7 @@
       <a class="button" target="_blank" rel=”noopener” href="/GeorgeCollopy_OrderOfService.pdf"> Order Of Service Download (pdf) - 12 April 2022 </a>
 
       <p></p>
-      <a class="button" target="_blank" rel=”noopener” href="mailto:georgerichardcollopy@gmail.com"> Send Email / Thoughts </a>
+      <a class="button" target="_blank" rel=”noopener” href="mailto:georgerichardcollopy@gmail.com"> Send Email </a>
 
     </div>
   </div>
